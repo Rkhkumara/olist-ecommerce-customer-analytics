@@ -1,4 +1,4 @@
-# Brazilian E-Commerce (Olist) — Customer Analytics
+# Brazilian E-Commerce (Olist) - Customer Analytics
 
 Analisis perilaku pelanggan menggunakan **Cohort Retention Analysis** dan **RFM Segmentation** pada dataset publik Olist, platform e-commerce terbesar di Brasil dengan 100k+ transaksi nyata (2016–2018).
 
@@ -90,5 +90,5 @@ Detail metodologi dan reasoning di balik setiap rekomendasi tersedia di bagian a
 
 ## Dataset
 
-[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) — Kaggle  
+[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) - Kaggle  
 Lisensi: CC BY-NC-SA 4.0
